@@ -1,3 +1,5 @@
 public class Name{
 
+int i=10;
+
 }
